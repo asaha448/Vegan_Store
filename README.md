@@ -79,7 +79,7 @@ The Vegan Store is a lightweight front-end website that aims to promote veganism
 
 To view the website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/`
+1. Clone the repository: `git clone https://github.com/asaha448/vegan_Store.git`
 2. Open the `index.html` file in your preferred web browser.
 3. Interact with the various features.
 <br>
